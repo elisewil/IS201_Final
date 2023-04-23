@@ -1,0 +1,61 @@
+.common{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.header{
+    background-color: #c55a48;
+    color: #f7e2d8;
+    height: 100px;
+    line-height: 100px;
+}
+.mainbody{
+    background-color: #edcdc8;
+}
+
+p{
+    font-weight:bold;
+    font-size:medium
+}
+#top{
+    text-decoration:underline;
+
+}
+
+.emphasizedtext{
+    font-style:italic;
+    color:blueviolet
+}
+
+a:visited {
+    color: #833c30;
+}
+body{
+    background-color: #f7e2d8;
+    color: #c55a48;
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 40px; 
+    margin: 20px; 
+   text-align: center; 
+}
+.subheader{
+    background-color:#c55a48;
+    color: #f7e2d8;
+    height: 50px;
+    line-height: 50px;
+}
+   .footer{
+    height: 25px;
+    background-color: #dee1e1;
+    color:  #f7e2d8;
+    position:fixed;
+    bottom: 0px; 
+    left: 5px; 
+    right: 5px;
+   }
+ol{ 
+    list-style-position: inside;
+}
+ul{ 
+    list-style-position: inside;
+}

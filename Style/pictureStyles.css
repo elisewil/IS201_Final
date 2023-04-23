@@ -1,0 +1,47 @@
+.common{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif
+}
+    .header{
+        background-color: rgb(245, 134, 134);
+        color:white;
+        height: 100px;
+        line-height: 100px;
+    }
+    .mainbody{
+        background-color: azure;
+    }
+    .footer{
+        height: 25px;
+        background-color: grey;
+        color: white;
+        position:fixed;
+        bottom: 0px; 
+        left: 5px; 
+        right: 5px;
+    }
+    img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto; 
+        width: 25%;
+    }
+
+    nav{
+        background-color: lightgrey;
+        padding: 10px; 
+        overflow: hidden;
+    }
+
+    nav a{
+        float: left;
+        color: black;
+        padding: 10px 13px;
+        font-size: 16px;
+        text-decoration: none;
+        font-weight: bold;
+    }
+
+    nav a:hover{
+        background-color: rgb(190, 187, 187);
+    }
